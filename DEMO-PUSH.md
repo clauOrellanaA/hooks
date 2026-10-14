@@ -31,4 +31,4 @@ probar, confirmar y subir.
 mostrar el fallo intencional en Actions.
 
 # violencia
-# va mejorando 
+# va mejorando, mentira no 
