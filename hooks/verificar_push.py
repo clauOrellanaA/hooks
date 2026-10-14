@@ -4,7 +4,8 @@ import re
 import subprocess
 import sys
 
-#Comentario para ver que funcionen actions de git 
+#Comentario para ver que funcionen actions de fdvsdf git asdcasdc 
+#CRISIS
 # xsdcs
 def verificar_push(comando):
     # Incluye git push, git.exe push y opciones globales como git -C ruta push.
